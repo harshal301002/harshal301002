@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&background=00E0FF00&lines=Hi+%F0%9F%91%8B+My+name+is+Jinang)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Harshal+Gajjar+)](https://git.io/typing-svg)
 
 ![yogitocat-removebg-preview](https://user-images.githubusercontent.com/76151703/166632853-0a1a5f3a-bab8-411f-aff8-785d2c57138b.png)
 
@@ -8,8 +8,10 @@
 * 🧠  I'm learning Data Structures & Algorithms
 * 🤝  I'm open to collaborating on exciting projects, preferred languages c++ and python.
 
-</a><a href="https://www.github.com/jinang17" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/jinang17?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</a><a href="https://www.github.com/harshal301002
+" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/harshal301002
+?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
