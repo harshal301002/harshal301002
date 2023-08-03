@@ -3,10 +3,8 @@
 ![yogitocat-removebg-preview](https://user-images.githubusercontent.com/76151703/166632853-0a1a5f3a-bab8-411f-aff8-785d2c57138b.png)
 
 
-* 📖 I am an Undergrad Student pursuing by Bachelors in Computer Science
-* 🌍  I'm based in Gujarat , India
-* 🧠  I'm learning Data Structures & Algorithms
-* 🤝  I'm open to collaborating on exciting projects, preferred languages c++ and python.
+* 📖 7th Semester student pursuing cse in Nirma University
+* 🧠  Mastery in data science and its corresponding sub-fields, smart contracts, web technologies.
 
 </a><a href="https://www.github.com/harshal301002
 " target="_blank" rel="noreferrer"><img
